@@ -62,11 +62,11 @@ This project is a **Retrieval-Augmented Generation (RAG) based chatbot** built u
 
 **Author:**
 
-* Wasif Mehboob
+* Abdulmoiz
 
 **Contributors:**
 
-* Ahsan Waseem
+* Wasif Mehboob
 * Abdul Moiz
 
 ---
