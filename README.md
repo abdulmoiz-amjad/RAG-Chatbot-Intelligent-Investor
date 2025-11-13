@@ -67,7 +67,7 @@ This project is a **Retrieval-Augmented Generation (RAG) based chatbot** built u
 **Contributors:**
 
 * Wasif Mehboob
-* Abdul Moiz
+* Ahsan Waseem
 
 ---
 
